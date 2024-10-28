@@ -1,0 +1,116 @@
+{
+    "Fridge": [
+        {
+            "expirationDate": "2024-10-10",
+            "name": "milk",
+            "quantity": 8
+        },
+        {
+            "expirationDate": "2024-10-13",
+            "name": "egg",
+            "quantity": 3
+        },
+        {
+            "expirationDate": "2024-10-20",
+            "name": "cheese",
+            "quantity": 2
+        },
+        {
+            "expirationDate": "2024-10-15",
+            "name": "yogurt",
+            "quantity": 4
+        },
+        {
+            "expirationDate": "2025-01-10",
+            "name": "butter",
+            "quantity": 1
+        },
+        {
+            "expirationDate": "2024-10-13",
+            "name": "spinach",
+            "quantity": 1
+        },
+        {
+            "expirationDate": "2024-10-13",
+            "name": "carrots",
+            "quantity": 5
+        },
+        {
+            "expirationDate": "2024-10-12",
+            "name": "chicken breast",
+            "quantity": 2
+        },
+        {
+            "expirationDate": "2024-10-15",
+            "name": "halloumi",
+            "quantity": 5
+        },
+        {
+            "expirationDate": "2024-10-12",
+            "name": "ground beef",
+            "quantity": 200
+        },
+        {
+            "expirationDate": "2024-10-16",
+            "name": "goat cheese",
+            "quantity": 6
+        }
+    ],
+    "Pantry": [
+        {
+            "expirationDate": "",
+            "name": "bread",
+            "quantity": 6
+        },
+        {
+            "expirationDate": "",
+            "name": "macaroni",
+            "quantity": 1
+        },
+        {
+            "expirationDate": "",
+            "name": "rice",
+            "quantity": 2
+        },
+        {
+            "expirationDate": "",
+            "name": "canned beans",
+            "quantity": 4
+        },
+        {
+            "expirationDate": "",
+            "name": "flour",
+            "quantity": 1
+        },
+        {
+            "expirationDate": "",
+            "name": "sugar",
+            "quantity": 4
+        },
+        {
+            "expirationDate": "",
+            "name": "olive oil",
+            "quantity": 1
+        },
+        {
+            "expirationDate": "",
+            "name": "salt",
+            "quantity": 3
+        },
+        {
+            "expirationDate": "",
+            "name": "chocolate chips",
+            "quantity": 6
+        },
+        {
+            "expirationDate": "",
+            "name": "vegetable broth",
+            "quantity": 4
+        },
+        {
+            "expirationDate": "",
+            "name": "cinnamon",
+            "quantity": 5
+        }
+    ]
+}

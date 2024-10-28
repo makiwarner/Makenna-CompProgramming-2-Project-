@@ -1,0 +1,7 @@
+/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/CMakeFiles/test.dir
+/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/CMakeFiles/edit_cache.dir
+/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/CMakeFiles/rebuild_cache.dir
+/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src/CMakeFiles/recipe_manager_improved.dir
+/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src/CMakeFiles/test.dir
+/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src/CMakeFiles/edit_cache.dir
+/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/include -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/recipe_manager_improved.dir/main.cpp.o -c /Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/main.cpp",
+  "file": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/main.cpp",
+  "output": "src/CMakeFiles/recipe_manager_improved.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/include -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/recipe_manager_improved.dir/Fridge.cpp.o -c /Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Fridge.cpp",
+  "file": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Fridge.cpp",
+  "output": "src/CMakeFiles/recipe_manager_improved.dir/Fridge.cpp.o"
+},
+{
+  "directory": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/include -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/recipe_manager_improved.dir/Pantry.cpp.o -c /Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Pantry.cpp",
+  "file": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Pantry.cpp",
+  "output": "src/CMakeFiles/recipe_manager_improved.dir/Pantry.cpp.o"
+},
+{
+  "directory": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/include -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/recipe_manager_improved.dir/Recipe.cpp.o -c /Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Recipe.cpp",
+  "file": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Recipe.cpp",
+  "output": "src/CMakeFiles/recipe_manager_improved.dir/Recipe.cpp.o"
+},
+{
+  "directory": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/include -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/recipe_manager_improved.dir/RecipeManager.cpp.o -c /Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/RecipeManager.cpp",
+  "file": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/RecipeManager.cpp",
+  "output": "src/CMakeFiles/recipe_manager_improved.dir/RecipeManager.cpp.o"
+},
+{
+  "directory": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/include -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/recipe_manager_improved.dir/Ingredient.cpp.o -c /Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Ingredient.cpp",
+  "file": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Ingredient.cpp",
+  "output": "src/CMakeFiles/recipe_manager_improved.dir/Ingredient.cpp.o"
+},
+{
+  "directory": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/include -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/recipe_manager_improved.dir/Storage.cpp.o -c /Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Storage.cpp",
+  "file": "/Users/makennawarner/RecipeManager/CompProgramming-2-Project-/src/Storage.cpp",
+  "output": "src/CMakeFiles/recipe_manager_improved.dir/Storage.cpp.o"
+}
+]
